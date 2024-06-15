@@ -1,1 +1,1 @@
-# NOTETAKING
+This script is a basic voice-activated note-taking application using Python. It leverages the speech_recognition, pyttsx3, and datetime libraries to recognize voice commands, convert them to text, and save notes.
